@@ -1,4 +1,4 @@
-# Spotify-Clone
+# mUSIC STREAM PLATFORM
 Working Version of Full Stack Spotify Clone build using HTML5, CSS, jQuery/Ajax and PHP.
 
 Download XAMPP for the respective version of OS from
