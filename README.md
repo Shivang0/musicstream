@@ -16,7 +16,7 @@ Under the Network tab, click Enable.
 
 Under the volume tab, click Mount
 
-On the XAMPP virtual machine, click on lampp folder and then htdocs folder. Place the Spotify_Clone folder into the htdocs folder.
+On the XAMPP virtual machine, click on lampp folder and then htdocs folder. Place the musicstream folder into the htdocs folder.
 
 Go to http://localhost:8080/phpmyadmin to go into the admin page and click the "New" button on the left side of the screen to create new database. On the right side of the screen under the input for Create database, type in Spotify and then click the "Create" button.
 
